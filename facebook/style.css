@@ -1,0 +1,137 @@
+*{
+padding:0px;
+margin:0px;
+}
+body{ 
+background:linear-gradient(to bottom right, white , #bcbdc4);
+
+}
+
+header
+{
+background: #415e9b;
+height: 82px;
+border-bottom: 1px    solid       #133783;
+}
+
+.head_block{
+width:992px;
+margin :0 auto;
+}
+.logo{
+width:50%;
+float: left;
+}
+
+.facebook_login{
+width:50%;
+float: left;
+}
+
+.logo img{
+padding: 1px;
+padding-bottom:20px;
+}
+.head_block{
+color:#fff;
+}
+.email{
+float:left;
+}
+.email lable{
+padding-bottom: 10px;
+}
+.email input[type="text"]{
+height: 20px;
+width:150px;
+border:1px  solid #1d2a5b;
+}
+.password{
+float:left;
+margin: left 15px;
+}
+.password lable{
+padding-bottom: 10px;
+}
+.password input[type="password"]{
+height: 20px;
+width:150px;
+border:1px  solid #1d2a5b;
+}
+.password a{
+color:#0fb1d0
+
+}
+.login{
+float:left;
+margin-top:20px;
+
+}
+.login  input[type="submit"]{
+background:#42267b2;
+border: 1px solid #29487d;
+border-radius: 2px;
+color:#fff;
+height: 20px;
+width:50px;
+}
+.clearfix{
+clear:both;
+}
+.content{
+width:992px;
+margin :0 auto;
+}
+.create_account{
+float:right;
+font-family:Arial;
+margin-top:20px;
+}
+.lpt{
+width:180px;
+height:30px;
+margin-top:10px;
+margin-bottom:05px;
+border:none;
+border:1px  solid #95a5a6;
+padding-left:10px;
+font-size:20px;
+}
+.lpt2{
+width:362px;
+height:30px;
+padding-left:10px;
+font-size:20px;
+border:none;
+border:1px  solid #95a5a6;
+margin-top:10px;
+margin-bottom:05px;
+}
+.dropdown{
+width:30px;
+height:30px;
+}
+.red{
+Display:inline-block;
+position:relative;
+cursor:pointer;
+font-family:sans-serif;
+fonr-size:15px
+user-select:none;
+margin-top:10px;
+margin-bottom:05px;
+}
+.b{
+margin-top:10px;
+margin-bottom:05px;
+}
+.button{
+width:150px;
+height:30px;
+border:none;
+border:1px  solid #95a5a6;
+background:green;
+margin-top:10px;
+margin-bottom:05px;
+
+}
